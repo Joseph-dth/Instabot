@@ -1,0 +1,17 @@
+2020-06-14 15:09:01,767 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-06-14 15:09:01,767 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /opt/anaconda3/lib/python3.7/site-packages/instabot/bot/bot.py
+2020-06-14 15:09:01,768 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-06-14 15:09:01,769 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-06-14 15:09:01,769 - instabot version: 0.117.0 (api_login) - INFO - Recovery from /Users/user/Desktop/python_project/ver2/config/duckmaster123321_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=28cd783d-8ad0-4909-9283-6020fc7295f6
+- uuid=b72d7d3f-1325-45dd-9df1-b6d8db83549e
+- client_session_id=e48a1448-6e76-4ada-81ff-6260d3051eae
+- device_id=android-734abc474c33f636
+2020-06-14 15:09:01,769 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-14 15:09:04,015 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-06-14 15:09:04,425 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-06-14 15:09:04,427 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'duckmaster123321'!
+2020-06-14 15:09:04,427 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /Users/user/Desktop/python_project/ver2/config/duckmaster123321.checkpoint
+2020-06-14 15:09:07,158 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /Users/user/Desktop/python_project/ver2/config/duckmaster123321.checkpoint
+2020-06-14 15:09:07,159 - instabot version: 0.117.0 (bot) - INFO - Total requests: 31
